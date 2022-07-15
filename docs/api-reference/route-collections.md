@@ -1,14 +1,12 @@
 # API route: /collections
 
-Get list of collections.
+## Get method
+Get list of collections
 
-## Parameters
-Nothing.
+### Parameters
+Nothing
 
-## Return
-Array of collections.
-
-## Return example
+### Return example
 ```json
 [
   {

@@ -1,14 +1,12 @@
 # API route: /collections/{id}/items
 
+## GET method
 Get a preview of all items of a collection
 
-## Parameters
-Nothing.
+### Parameters
+Nothing
 
-## Return
-Array of item objects preview.
-
-## Return example
+### Return example
 ```json
 [
   {

@@ -1,5 +1,7 @@
 # OnMyShelf API Reference
 
+**Note**: This documentation is not complete yet. More to come!
+
 ## Routes
 - [/collections](route-collections.md)
 - [/collections/{id}](route-collection-id.md)

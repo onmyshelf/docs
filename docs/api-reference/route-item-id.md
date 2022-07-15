@@ -1,14 +1,12 @@
 # API route: /collections/{id}/items/{id}
 
-Get details of an item.
+## GET method
+Get details of an item
 
-## Parameters
-Nothing.
+### Parameters
+Nothing
 
-## Return
-Item object.
-
-## Return example
+### Return example
 ```json
 {
   "id": 3,
@@ -20,5 +18,18 @@ Item object.
     "pages": 350
   },
   "visibility": 0
+}
+```
+
+## DELETE method
+Deletes item
+
+### Parameters
+Nothing
+
+### Return example
+```json
+{
+  "deleted": true
 }
 ```

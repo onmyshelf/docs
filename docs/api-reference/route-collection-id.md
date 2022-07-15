@@ -1,14 +1,12 @@
 # API route: /collections/{id}
 
-Get a collection description.
+## GET method
+Get a collection summary
 
-## Parameters
-Nothing.
+### Parameters
+Nothing
 
-## Return
-Collection object.
-
-## Return example
+### Return example
 ```json
 {
   "id": 1,
@@ -74,5 +72,18 @@ Collection object.
     },
   },
   "items": 42
+}
+```
+
+## DELETE method
+Deletes collection
+
+### Parameters
+Nothing
+
+### Return exemple
+```json
+{
+  "deleted": true
 }
 ```
