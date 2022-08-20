@@ -1,4 +1,5 @@
 # OnMyShelf Developer Guide
 
-- [API documentation](api.md)
+- [API server documentation](api.md)
 - [Web interface documentation](web.md)
+- [Modules documentation](modules.md)
