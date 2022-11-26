@@ -16,7 +16,7 @@ Help us to make OnMyShelf better! How?
 - Report any bugs and suggest new cool features [here](https://github.com/onmyshelf/onmyshelf/issues)
 - Speak of OnMyShelf to your friends
 - Share our website: [https://onmyshelf.cm](https://onmyshelf.cm)
-- Follow us on [Twitter](https://twitter.com/onmyshelfcm)
+- Follow us on [Twitter](https://twitter.com/onmyshelfcm) and [Mastodon](https://hostux.social/@onmyshelf)
 - Follow us and give us a star on our projects on [GitHub](https://github.com/onmyshelf/onmyshelf)
 
 Are you a web developer?
@@ -25,10 +25,9 @@ Are you a web developer?
 - Help us to fix bugs and improve the [API](https://github.com/onmyshelf/api) (PHP)
 - Creates [modules](https://docs.onmyshelf.cm/developer-guide/modules/) to extend OnMyShelf features!
 
-Are you a designer?
+Are you a web designer?
 
-- Help us to design a beautiful logo for OnMyShelf ([more](https://github.com/onmyshelf/onmyshelf/issues/36))
-- Help us to improve the web design to make OnMyShelf more attractive ([more](https://github.com/onmyshelf/web/issues))
+- Help us to improve the web interface to make OnMyShelf more attractive ([more](https://github.com/onmyshelf/onmyshelf/issues?q=is%3Aissue+is%3Aopen+label%3AInterface))
 
 ## Contact us
 By email: contact [at] onmyshelf [dot] cm

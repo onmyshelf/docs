@@ -3,7 +3,10 @@
 **Note**: This documentation is not complete yet. More to come!
 
 ## Routes
-- [/collections](route-collections.md)
-- [/collections/{id}](route-collection-id.md)
-- [/collections/{id}/items](route-collection-items.md)
-- [/collections/{id}/items/{id}](route-item-id.md)
+- [/](route-0-root.md)
+- [/collections](route-1-collections.md)
+- [/collections/{id}](route-2-collection.md)
+- [/collections/{id}/items](route-3-items.md)
+- [/collections/{id}/items/{id}](route-4-item.md)
+- [/login](route-login.md)
+- [/token](route-token.md)

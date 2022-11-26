@@ -1,6 +1,6 @@
 # API route: /collections
 
-## Get method
+## GET method
 Get list of collections
 
 ### Parameters
