@@ -4,12 +4,12 @@ It is highly recommended to make regular backups of your OnMyShelf instance.
 ## Backup with docker project
 To backup OnMyShelf database, run the following command:
 ```bash
-docker compose exec server /backup.sh
+docker compose exec server oms-backup
 ```
 
 Or using docker command:
 ```bash
-docker exec <CONTAINER_NAME> /backup.sh
+docker exec <CONTAINER_NAME> oms-backup
 ```
 
 The database dump file is stored in `volumes/backups` folder.
