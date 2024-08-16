@@ -30,4 +30,4 @@ Are you a web designer?
 - Help us to improve the web interface to make OnMyShelf more attractive ([more](https://github.com/onmyshelf/onmyshelf/issues?q=is%3Aissue+is%3Aopen+label%3AInterface))
 
 ## Contact us
-By email: contact [at] onmyshelf [dot] cm
+By email: contact [at] onmyshelf [dot] app
