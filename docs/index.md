@@ -18,6 +18,7 @@ Help us to make OnMyShelf better! How?
 - Share our website: [https://onmyshelf.app](https://onmyshelf.app)
 - Follow us on [Twitter](https://twitter.com/onmyshelf_app) and [Mastodon](https://hostux.social/@onmyshelf)
 - Follow us and give us a star on our projects on [GitHub](https://github.com/onmyshelf/onmyshelf)
+- Rate OnMyShelf on [AlternativeTo](https://alternativeto.net/software/onmyshelf/about)
 
 Are you a web developer?
 
