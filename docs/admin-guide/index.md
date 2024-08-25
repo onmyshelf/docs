@@ -14,7 +14,7 @@ The easiest way to install OnMyShelf is to use the docker project.
 You need to have [Git](https://git-scm.com/) installed on your machine.
 
 If you can't use git, you can download and skip the following steps,
-but it's not recommended, as you can miss some changes.
+but it's not recommended, as you could miss some changes.
 
 ### Download the docker project
 Clone the project:
