@@ -9,8 +9,8 @@ OnMyShelf's API server is developed in PHP from scratch.
 Contributors are welcome to help us make OnMyShelf API server a more secured
 and (why not) make a complete refactoring.
 
-## API reference
-To understand API, please read the [API reference](../api-reference) documentation.
+## API documentation
+To understand API, you can use the OpenAPI definition in `inc/openapi.json`.
 
 ## How it works
 ### Front calls
